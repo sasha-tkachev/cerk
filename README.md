@@ -9,7 +9,7 @@
 
 ## Introduction
 
-CERK lets you route your [CloudEvents](https://github.com/cloudevents/spec) between different different ports.
+CERK lets you route your [CloudEvents](https://github.com/cloudevents/spec) between different ports.
 Ports are transport layer bindings over which CloudEvents can be exchanged.
 It is built with modularity and portability in mind.
 
